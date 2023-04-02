@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">At-Tanzil Academy</string>
+
+    <string name="AboutUs">Willkommen in der At-Tanzil Akademie, um nicht-arabischen Sprechern den Heiligen Koran beizubringen Wir bieten Ihnen einfache Videos, um den Heiligen Koran in der Sprache zu lehren, zu der Sie gehören.</string>
+    <string name="aboutus_fragment_title">Über uns</string>
+    <string name="notesButton_text">Anmerkungen</string>
+    <string name="notesFragment_title">Anmerkungen</string>
+    <string name="notesText1">Nachdem Sie die Ayah auswendig gelernt haben Sie können Ihre Aussprache testen, indem Sie Ihre Nachricht an <b>+201110371247</b> senden Und ich werde deine Aussprache inha\'allah korrigieren.</string>
+    <string name="notesText2">Beginnen Sie damit, den Schlüssel der Aussprache zu lernen.</string>
+    <string name="notesText3">Du solltest lernen, indem du dir die Rezitation anhörst, nicht durch die Buchstaben.</string>
+    <string name="notesText4">Die Buchstaben sollen nur das Verständnis der Aussprache erleichtern.</string>
+    <string name="keyButtonText">Aussprache Schlüssel</string>
+    <string name="keys">Der Schlüssel der Aussprache Erläutern Sie einige in den Videos verwendete Symbole, um das Verständnis der Aussprachetöne zu erleichtern.</string>
+
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="down_button_text">Video herunterladen</string>
+    <string name="Downloading_text">Wird heruntergeladen...</string>
+    <string name="downloaded">Heruntergeladen</string>
+    <string name="practice">Üben Sie die Aussprache mit dem Lehrer</string>
+    <string name="Listen_full_sura">komplette Sure anhören</string>
+    <string name="cant_play">Kann dieses Video nicht abspielen.</string>
+    <string name="cant_play_message">Versuchen Sie, das Video aus Ihren Downloads zu löschen und erneut herunterzuladen.</string>
+    <string name="no_internet">Kein Internet</string>
+    <string name="no_iternet_message">Sie haben keine Internetverbindung</string>
+    <string name="download_faild">Herunterladen fehlgeschlagen</string>
+    <string name="Download_Completed">Download abgeschlossen</string>
+    <string name="Permission_required">Genehmigung erforderlich</string>
+    <string name="permission_required_download_text">Zum Herunterladen von Videos ist eine Speicherberechtigung erforderlich</string>
+    <string name="permission_required_downloaded_text">Zum Abspielen heruntergeladener Videos ist eine Speicherberechtigung erforderlich</string>
+
+    <string name="istiadah_note"><b>hinweis :</b> Sie müssen diese Zuflucht rezitieren, bevor Sie mit dem Lesen des Korans beginnen. Nur einmal, wiederholen Sie sie nicht zwischen den Versen. Nur einmal zu Beginn Ihrer Rezitation.</string>
+    <string name="AlIstiadha">Und wenn du den Quran liest, so suche bei Allah Zuflucht vor dem Satan, dem Verfluchten.</string>
+
+    <string name="AlFatihah_aya1">Im Namen Allahs, des Allerbarmers, des Barmherzigen.</string>
+    <string name="AlFatihah_aya2">(Alles) Lob gehört Allah, dem Herrn der Welten.</string>
+    <string name="AlFatihah_aya3">dem Allerbarmer, dem Barmherzigen.</string>
+    <string name="AlFatihah_aya4">dem Herrscher am Tag des Gerichts.</string>
+    <string name="AlFatihah_aya5">Dir allein dienen wir, und zu Dir allein flehen wir um Hilfe.</string>
+    <string name="AlFatihah_aya6">Leite uns den geraden Weg.</string>
+    <string name="AlFatihah_aya7">den Weg derjenigen, denen Du Gunst erwiesen hast, nicht derjenigen, die (Deinen) Zorn erregt haben, und nicht der Irregehenden!</string>
+
+
+    <string name="anNas_aya1">Sag: Ich nehme Zuflucht beim Herrn der Menschen.</string>
+    <string name="anNas_aya2">dem König der Menschen.</string>
+    <string name="anNas_aya3">dem Gott der Menschen.</string>
+    <string name="anNas_aya4">vor dem Übel des Einflüsterers, des Davonschleichers.</string>
+    <string name="anNas_aya5">der in die Brüste der Menschen einflüstert.</string>
+    <string name="anNas_aya6">von den Ginn und den Menschen.</string>
+
+
+    <string name="alFalaq_aya1">Sag: Ich nehme Zuflucht beim Herrn des Tagesanbruchs.</string>
+    <string name="alFalaq_aya2">vor dem Übel dessen, was Er erschaffen hat.</string>
+    <string name="alFalaq_aya3">und vor dem Übel der Dunkelheit, wenn sie zunimmt.</string>
+    <string name="alFalaq_aya4">und vor dem Übel der Knotenanbläserinnen.</string>
+    <string name="alFalaq_aya5">und vor dem Übel eines (jeden) Neidenden, wenn er neidet.</string>
+
+    <string name="alIkhlas_aya1">Sprich, O Prophet, Er ist Allah – Einer.</string>
+    <string name="alIkhlas_aya2">Allah, der Ewige.</string>
+    <string name="alIkhlas_aya3">Er zeugt nicht und ist nicht gezeugt worden.</string>
+    <string name="alIkhlas_aya4">und Ihm ebenbürtig ist keiner.</string>
+
+    <string name="AlMasad_aya1">Zugrunde gehen sollen die Hände Abu Lahabs! Und (auch er selbst) soll zugrunde gehen!</string>
+    <string name="AlMasad_aya2">Nichts soll ihm sein Vermögen nützen, noch das, was er erworben hat.</string>
+    <string name="AlMasad_aya3">er wird in einem flammenden Feuer brennen.</string>
+    <string name="AlMasad_aya4">und seine Frau wird das Brennholz tragen.</string>
+    <string name="AlMasad_aya5">Um ihren Hals ist ein Strick aus Palmfasern.</string>
+
+    <string name="anNasr_aya1">Wenn die Hilfe Allahs kommt und der Sieg.</string>
+    <string name="anNasr_aya2">und du die Menschen zur Religion Allahs in Scharen übertreten siehst.</string>
+    <string name="anNasr_aya3">dann lobpreise deinen Herrn und bitte Ihn um Vergebung! Er ist wahrlich Der, Der die Reue an nimmt.</string>
+
+    <string name="alKafirun_aya1">Sprich: \"O ihr Ungläubigen!</string>
+    <string name="alKafirun_aya2">Ich diene nicht dem, dem ihr dient.</string>
+    <string name="alKafirun_aya3">und ihr dient nicht Dem, Dem ich diene.</string>
+    <string name="alKafirun_aya4">Und ich werde nicht Diener dessen sein, dem ihr dient.</string>
+    <string name="alKafirun_aya5">und ihr dient nicht Dem, Dem ich diene.</string>
+    <string name="alKafirun_aya6">Ihr habt eure Religion und ich habe meine Religion.</string>
+
+
+
+    <string name="alKauthar_aya1">Wir haben dir ja al-Kautar gegeben.</string>
+    <string name="alKauthar_aya2">So bete zu deinem Herrn und opfere.</string>
+    <string name="alKauthar_aya3">Gewiß, derjenige, der dich haßt, - er ist vom Guten abgetrennt.</string>
+
+    <string name="alMaoun_aya1">Siehst du (nicht) denjenigen, der das Gericht für Lüge erklärt?</string>
+    <string name="alMaoun_aya2">Das ist derjenige, der die Waise zurückstößt.</string>
+    <string name="alMaoun_aya3">und nicht zur Speisung des Armen anhält.</string>
+    <string name="alMaoun_aya4">Wehe nun den Betenden.</string>
+    <string name="alMaoun_aya5">denjenigen, die auf ihre Gebete nicht achten.</string>
+    <string name="alMaoun_aya6">denjenigen, die dabei (nur) gesehen werden wollen.</string>
+    <string name="alMaoun_aya7">und die Hilfeleistung verweigern.</string>
+
+    <string name="Quraish_aya1">Für die Vereinigung der Qurais.</string>
+    <string name="Quraish_aya2">ihre Vereinigung während der Reise des Winters und des Sommers.</string>
+    <string name="Quraish_aya3">So sollen sie dem Herrn dieses Hauses dienen.</string>
+    <string name="Quraish_aya4">Der ihnen Speise nach ihrem Hunger gegeben und ihnen Sicherheit nach ihrer Furcht gewährt hat.</string>
+
+    <string name="alFil_aya1">Siehst du nicht, wie dein Herr mit den Leuten des Elefanten verfuhr?</string>
+    <string name="alFil_aya2">Ließ Er nicht ihre List verlorengehen.</string>
+    <string name="alFil_aya3">und sandte gegen sie Vögel in aufeinanderfolgenden Schwärmen.</string>
+    <string name="alFil_aya4">die sie mit Steinen aus gebranntem Lehm bewarfen.</string>
+    <string name="alFil_aya5">und sie so wie abgefressene Halme machte?</string>
+
+    <string name="alHumazah_aya1">Wehe jedem Stichler und Nörgler.</string>
+    <string name="alHumazah_aya2">der Besitz zusammenträgt und ihn zählt und immer wieder zählt.</string>
+    <string name="alHumazah_aya3">wobei er meint, daß sein Besitz ihn ewig leben ließe!</string>
+    <string name="alHumazah_aya4">Keineswegs! Er wird ganz gewiß in al-Hutama geworfen werden.</string>
+    <string name="alHumazah_aya5">Was läßt dich wissen, was al-Hutama ist?</string>
+    <string name="alHumazah_aya6">(Sie ist) Allahs entfachtes Feuer.</string>
+    <string name="alHumazah_aya7">das Einblick in die Herzen gewinnt.</string>
+    <string name="alHumazah_aya8">Gewiß, es wird sie einschließen.</string>
+    <string name="alHumazah_aya9">in langgestreckten Säulen.</string>
+
+    <string name="alAsr_aya1">Beim Zeitalter!</string>
+    <string name="alAsr_aya2">Der Mensch befindet sich wahrlich in Verlust.</string>
+    <string name="alAsr_aya3">außer denjenigen, die glauben und rechtschaffene Werke tun und einander die Wahrheit eindringlich empfehlen und einander die Standhaftigkeit eindringlich empfehlen.</string>
+
+    <string name="atTakathur_aya1">Die Vermehrung lenkt euch ab.</string>
+    <string name="atTakathur_aya2">bis ihr die Friedhöfe besucht.</string>
+    <string name="atTakathur_aya3">Keineswegs! Ihr werdet (es noch) erfahren.</string>
+    <string name="atTakathur_aya4">Abermals: Keineswegs! Ihr werdet (es noch) erfahren.</string>
+    <string name="atTakathur_aya5">Keineswegs! Wenn ihr es nur mit dem Wissen der Gewißheit wüßtet.</string>
+    <string name="atTakathur_aya6">Ihr werdet ganz gewiß den Höllenbrand sehen.</string>
+    <string name="atTakathur_aya7">Abermals: Ihr werdet ihn mit dem Auge der Gewißheit sehen.</string>
+    <string name="atTakathur_aya8">Hierauf werdet ihr an jenem Tag ganz gewiß nach der Wonne gefragt werden.</string>
+
+    <string name="alQariah_aya1">Das Verhängnis.</string>
+    <string name="alQariah_aya2">Was ist das Verhängnis?</string>
+    <string name="alQariah_aya3">Und was läßt dich wissen, was das Verhängnis ist?</string>
+    <string name="alQariah_aya4">Am Tag, da die Menschen wie flatternde Motten sein werden.</string>
+    <string name="alQariah_aya5">und die Berge wie zerflockte gefärbte Wolle sein werden.</string>
+    <string name="alQariah_aya6">Was nun jemanden angeht, dessen Waagschalen schwer sind.</string>
+    <string name="alQariah_aya7">so wird er in einem zufriedenen Leben sein.</string>
+    <string name="alQariah_aya8">Was aber jemanden angeht, dessen Waagschalen leicht sind.</string>
+    <string name="alQariah_aya9">dessen Mutter wird ein Abgrund sein.</string>
+    <string name="alQariah_aya10">Und was läßt dich wissen, was das ist?.</string>
+    <string name="alQariah_aya11">Ein sehr heißes Feuer.</string>
+
+    <string name="alAdiyat_aya1">Bei den schnaubend Rennenden.</string>
+    <string name="alAdiyat_aya2">den (mit ihren Hufen) Funken Schlagenden.</string>
+    <string name="alAdiyat_aya3">den am Morgen Angreifenden.</string>
+    <string name="alAdiyat_aya4">die darin Staub aufwirbeln".</string>
+    <string name="alAdiyat_aya5">die dann mitten in die Ansammlung eindringen!</string>
+    <string name="alAdiyat_aya6">Der Mensch ist seinem Herrn gegenüber wahrlich undankbar.</string>
+    <string name="alAdiyat_aya7">und er (selbst) ist darüber wahrlich Zeuge.</string>
+    <string name="alAdiyat_aya8">Und er ist in seiner Liebe zum (eigenen) Besten wahrlich heftig.</string>
+    <string name="alAdiyat_aya9">Weiß er denn nicht? Wenn durchwühlt wird, was in den Gräbern ist.</string>
+    <string name="alAdiyat_aya10">und herausgeholt wird, was in den Brüsten ist.</string>
+    <string name="alAdiyat_aya11">ihr Herr wird an jenem Tag ihrer wahrlich Kundig sein.</string>
+
+    <string name="AzZalzala_aya1">Wenn die Erde erschüttert wird durch ihr heftiges Beben.</string>
+    <string name="AzZalzala_aya2">und die Erde hervorbringt ihre Lasten.</string>
+    <string name="AzZalzala_aya3">und der Mensch sagt: Was ist mit ihr?</string>
+    <string name="AzZalzala_aya4">an jenem Tag wird sie die Nachrichten über sich erzählen.</string>
+    <string name="AzZalzala_aya5">weil dein Herr (es) ihr eingegeben hat.</string>
+    <string name="AzZalzala_aya6">An jenem Tag werden die Menschen (in Gruppen) getrennt herauskommen, damit ihnen ihre Werke gezeigt werden.</string>
+    <string name="AzZalzala_aya7">Wer nun im Gewicht eines Stäubchens Gutes tut, wird es sehen.</string>
+    <string name="AzZalzala_aya8">Und wer im Gewicht eines Stäubchens Böses tut, wird es sehen.</string>
+
+
+
+</resources>

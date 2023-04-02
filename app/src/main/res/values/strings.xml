@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">At-Tanzil Academy</string>
+
+    <string name="AboutUs">Welcome to the At-Tanzil Academy to teach the Holy Quran for non-Arabic speakers We provide easy videos to teach the Holy Quran in the language they belong.</string>
+    <string name="aboutus_fragment_title">About us</string>
+    <string name="notesButton_text">Notes</string>
+    <string name="notesFragment_title">Notes</string>
+    <string name="notesText1">After you memorize the Ayah You can test your pronunciation by sending your reciete on <b>+201110371247</b>  And i will correct your pronunciation insha\'allah .</string>
+    <string name="notesText2">Start by learning The key of pronunciation.</string>
+    <string name="notesText3">You should learn through listening to the recite not through the letters.</string>
+    <string name="notesText4">The letters only to facilitate understanding the pronounction.</string>
+    <string name="keyButtonText">pronounce key</string>
+    <string name="keys">The key of pronunciation Explain some symbols used in the Videos to facilitate understanding the pronounction sounds.</string>
+
+    <string name="level_1">Level 1</string>
+    <string name="level_2">Level 2</string>
+    <string name="down_button_text">Download video</string>
+    <string name="Downloading_text">Downloading...</string>
+    <string name="downloaded">Downloaded</string>
+    <string name="practice">Practice pronunciation with teacher</string>
+    <string name="Listen_full_sura">Listen to full surah</string>
+    <string name="cant_play">Can\'t play this video.</string>
+    <string name="cant_play_message">Try deleting the video from your downloads and downloading it again.</string>
+    <string name="no_internet">No internet</string>
+    <string name="no_iternet_message">You have no internet connection</string>
+    <string name="download_faild">Download failed</string>
+    <string name="Download_Completed">Download Completed</string>
+    <string name="Permission_required">Permission required</string>
+    <string name="permission_required_download_text">Storage permission is required to download video.</string>
+    <string name="permission_required_downloaded_text">Storage permission is required to play downloaded videos.</string>
+
+    <string name="istiadah_note"><b>note :</b> You must recite this refuge before start reading Quran Only one time , Not repeat it between verses Just one time in the beginning of your recite.</string>
+    <string name="AlIstiadha">So when you recite the Qur’ān, [first] seek refuge in Allāh from Satan, the expelled.</string>
+
+
+    <string name="AlFatihah_aya1">In the name of Allah,the Entirely Merciful, the Especially Merciful.</string>
+    <string name="AlFatihah_aya2">[All] praise is [due] to Allah, Lord of the worlds.</string>
+    <string name="AlFatihah_aya3">The Entirely Merciful, the Especially Merciful.</string>
+    <string name="AlFatihah_aya4">Sovereign of the Day of Recompense.</string>
+    <string name="AlFatihah_aya5">It is You we worship and You we ask for help.</string>
+    <string name="AlFatihah_aya6">Guide us to the straight path.</string>
+    <string name="AlFatihah_aya7">The path of those upon whom You have bestowed favor, not of those who have earned [Your] anger or of those who are astray.</string>
+
+
+    <string name="anNas_aya1">Say, I seek refuge in the Lord of mankind.</string>
+    <string name="anNas_aya2">The Sovereign of mankind.</string>
+    <string name="anNas_aya3">The God of mankind.</string>
+    <string name="anNas_aya4">From the evil of the retreating whisperer.</string>
+    <string name="anNas_aya5">Who whispers [evil] into the breasts of mankind.</string>
+    <string name="anNas_aya6">From among the jinn and mankind.</string>
+
+
+    <string name="alFalaq_aya1">Say, I seek refuge in the Lord of daybreak.</string>
+    <string name="alFalaq_aya2">From the evil of that which He created.</string>
+    <string name="alFalaq_aya3">And from the evil of darkness when it settles.</string>
+    <string name="alFalaq_aya4">And from the evil of the blowers in knots.</string>
+    <string name="alFalaq_aya5">And from the evil of an envier when he envies.</string>
+
+    <string name="alIkhlas_aya1">Say, O Prophet, He is Allah—One and Indivisible</string>
+    <string name="alIkhlas_aya2">Allah, the Eternal.</string>
+    <string name="alIkhlas_aya3">He neither begets nor is born.</string>
+    <string name="alIkhlas_aya4">Nor is there to Him any equivalent.</string>
+
+    <string name="AlMasad_aya1">May the hands of Abū Lahab be ruined, and ruined is he.</string>
+    <string name="AlMasad_aya2">His wealth will not avail him or that which he gained.</string>
+    <string name="AlMasad_aya3">He will [enter to] burn in a Fire of [blazing] flame.</string>
+    <string name="AlMasad_aya4">And his wife [as well] - the carrier of firewood.</string>
+    <string name="AlMasad_aya5">Around her neck is a rope of [twisted] fiber.</string>
+
+    <string name="anNasr_aya1">When the victory of Allah has come and the conquest.</string>
+    <string name="anNasr_aya2">And you see the people entering into the religion of Allah in multitudes.</string>
+    <string name="anNasr_aya3">Then exalt [Him] with praise of your Lord and ask forgiveness of Him. Indeed, He is ever Accepting of Repentance.</string>
+
+    <string name="alKafirun_aya1">Say, O disbelievers.</string>
+    <string name="alKafirun_aya2">I do not worship what you worship.</string>
+    <string name="alKafirun_aya3">Nor are you worshippers of what I worship.</string>
+    <string name="alKafirun_aya4">Nor will I be a worshipper of what you worship.</string>
+    <string name="alKafirun_aya5">Nor are you worshippers of what I worship.</string>
+    <string name="alKafirun_aya6">For you is your religion, and for me is my religion.</string>
+
+
+    <string name="alKauthar_aya1">Indeed, We have granted you, [O Muḥammad], al-Kawthar.</string>
+    <string name="alKauthar_aya2">So pray to your Lord and offer sacrifice [to Him alone].</string>
+    <string name="alKauthar_aya3">Indeed, your enemy is the one cut off.</string>
+
+    <string name="alMaoun_aya1">Have you seen the one who denies the Recompense?.</string>
+    <string name="alMaoun_aya2">For that is the one who drives away the orphan.</string>
+    <string name="alMaoun_aya3">And does not encourage the feeding of the poor.</string>
+    <string name="alMaoun_aya4">So woe to those who pray.</string>
+    <string name="alMaoun_aya5">[But] who are heedless of their prayer.</string>
+    <string name="alMaoun_aya6">Those who make show [of their deeds].</string>
+    <string name="alMaoun_aya7">And withhold [simple] assistance.</string>
+
+    <string name="Quraish_aya1">For the accustomed security of the Quraysh.</string>
+    <string name="Quraish_aya2">Their accustomed security [in] the caravan of winter and summer.</string>
+    <string name="Quraish_aya3">Let them worship the Lord of this House.</string>
+    <string name="Quraish_aya4">Who has fed them, [saving them] from hunger and made them safe, [saving them] from fear.</string>
+
+    <string name="alFil_aya1">Have you not considered, [O Muḥammad], how your Lord dealt with the companions of the elephant?.</string>
+    <string name="alFil_aya2">Did He not make their plan into misguidance?.</string>
+    <string name="alFil_aya3">And He sent against them birds in flocks.</string>
+    <string name="alFil_aya4">Striking them with stones of hard clay.</string>
+    <string name="alFil_aya5">And He made them like eaten straw.</string>
+
+    <string name="alHumazah_aya1">Woe to every scorner and mocker.</string>
+    <string name="alHumazah_aya2">Who collects wealth and [continuously] counts it.</string>
+    <string name="alHumazah_aya3">He thinks that his wealth will make him immortal.</string>
+    <string name="alHumazah_aya4">No! He will surely be thrown into the Crusher.</string>
+    <string name="alHumazah_aya5">And what can make you know what is the Crusher?.</string>
+    <string name="alHumazah_aya6">It is the fire of Allah, [eternally] fueled.</string>
+    <string name="alHumazah_aya7">Which mounts directed at the hearts.</string>
+    <string name="alHumazah_aya8">Indeed, it [i.e., Hellfire] will be closed down upon them.</string>
+    <string name="alHumazah_aya9">In extended columns.</string>
+
+    <string name="alAsr_aya1">By time.</string>
+    <string name="alAsr_aya2">Indeed, mankind is in loss.</string>
+    <string name="alAsr_aya3">Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.</string>
+
+    <string name="atTakathur_aya1">Competition in [worldly] increase diverts you.</string>
+    <string name="atTakathur_aya2">Until you visit the graveyards.</string>
+    <string name="atTakathur_aya3">No! You are going to know.</string>
+    <string name="atTakathur_aya4">Then, no! You are going to know.</string>
+    <string name="atTakathur_aya5">No! If you only knew with knowledge of certainty.</string>
+    <string name="atTakathur_aya6">You will surely see the Hellfire.</string>
+    <string name="atTakathur_aya7">Then you will surely see it with the eye of certainty.</string>
+    <string name="atTakathur_aya8">Then you will surely be asked that Day about pleasure.</string>
+
+    <string name="alQariah_aya1">The Striking Calamity.</string>
+    <string name="alQariah_aya2">What is the Striking Calamity?.</string>
+    <string name="alQariah_aya3">And what can make you know what is the Striking Calamity?.</string>
+    <string name="alQariah_aya4">It is the Day when people will be like moths, dispersed.</string>
+    <string name="alQariah_aya5">And the mountains will be like wool, fluffed up..</string>
+    <string name="alQariah_aya6">Then as for one whose scales are heavy [with good deeds],.</string>
+    <string name="alQariah_aya7">He will be in a pleasant life.</string>
+    <string name="alQariah_aya8">But as for one whose scales are light.</string>
+    <string name="alQariah_aya9">His refuge will be an abyss.</string>
+    <string name="alQariah_aya10">And what can make you know what that is?.</string>
+    <string name="alQariah_aya11">It is a Fire, intensely hot.</string>
+
+    <string name="alAdiyat_aya1">By the racers, panting.</string>
+    <string name="alAdiyat_aya2">And the producers of sparks [when] striking.</string>
+    <string name="alAdiyat_aya3">And the chargers at dawn.</string>
+    <string name="alAdiyat_aya4">Stirring up thereby [clouds of] dust.</string>
+    <string name="alAdiyat_aya5">Arriving thereby in the center collectively.</string>
+    <string name="alAdiyat_aya6">Indeed mankind, to his Lord, is ungrateful.</string>
+    <string name="alAdiyat_aya7">And indeed, he is to that a witness.</string>
+    <string name="alAdiyat_aya8">And indeed he is, in love of wealth, intense.</string>
+    <string name="alAdiyat_aya9">But does he not know that when the contents of the graves are scattered.</string>
+    <string name="alAdiyat_aya10">And that within the breasts is obtained.</string>
+    <string name="alAdiyat_aya11">Indeed, their Lord with them, that Day, is [fully] Aware.</string>
+
+    <string name="AzZalzala_aya1">When the earth is shaken with its [final] earthquake.</string>
+    <string name="AzZalzala_aya2">And the earth discharges its burdens.</string>
+    <string name="AzZalzala_aya3">And man says, "What is [wrong] with it?".</string>
+    <string name="AzZalzala_aya4">That Day, it will report its news.</string>
+    <string name="AzZalzala_aya5">Because your Lord has inspired [i.e., commanded] it..</string>
+    <string name="AzZalzala_aya6">That Day, the people will depart separated [into categories] to be shown [the result of] their deeds.</string>
+    <string name="AzZalzala_aya7">So whoever does an atom\'s weight of good will see it.</string>
+    <string name="AzZalzala_aya8">And whoever does an atom\'s weight of evil will see it.</string>
+
+
+
+</resources>

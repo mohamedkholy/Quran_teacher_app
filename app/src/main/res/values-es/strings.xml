@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">At-Tanzil Academy</string>
+
+    <string name="AboutUs">Bienvenido a la Academia de At-Tanzil para enseñar al Sagrado Quran para oradores no árabes, brindamos videos fáciles de enseñar al Sagrado Corán en el idioma que pertenecen.</string>
+    <string name="aboutus_fragment_title">Sobre nosotros</string>
+    <string name="notesButton_text">Notas</string>
+    <string name="notesFragment_title">Notas</string>
+    <string name="notesText1">Después de memorizar el AYAH, puede probar su pronunciación enviando su recién recibido en <b>+201110371247</b> y corrija su pronunciación insha\'allah.</string>
+    <string name="notesText2">Comienza aprendiendo La clave de pronunciación.</string>
+    <string name="notesText3">Debes aprender escuchando el recitado, no a través de las letras en español.</string>
+    <string name="notesText4"> Las letras en español solo para facilitar la comprensión de la pronunciación.</string>
+    <string name="keyButtonText">clave de pronunciación</string>
+    <string name="keys">La clave de la pronunciación Explique algunos símbolos utilizados en los videos para facilitar la comprensión de los sonidos de pronunciación.</string>
+
+
+    <string name="level_1">Nivel 1</string>
+    <string name="level_2">Nivel 2</string>
+    <string name="down_button_text">Descargar video</string>
+    <string name="Downloading_text">Descargando...</string>
+    <string name="downloaded">descargado</string>
+    <string name="practice">Practicar pronunciación con profesor</string>
+    <string name="Listen_full_sura">escucha la surah completa</string>
+    <string name="cant_play">No se puede reproducir este video.</string>
+    <string name="cant_play_message">Intente eliminar el video de sus descargas y descargarlo nuevamente.</string>
+    <string name="no_internet">Sin internet</string>
+    <string name="no_iternet_message">no tienes conexion a internet</string>
+    <string name="download_faild">Descarga fracasó</string>
+    <string name="Download_Completed">Descarga completa</string>
+    <string name="Permission_required">Se requiere permiso</string>
+    <string name="permission_required_download_text">Se requiere permiso de almacenamiento para descargar videos.</string>
+    <string name="permission_required_downloaded_text">Se requiere permiso de almacenamiento para reproducir videos descargados.</string>
+
+    <string name="istiadah_note"><b>nota :</b> Debe recitar este refugio antes de comenzar a leer el Corán. Solo una vez, no las repitas entre versos. Sólo una vez al comienzo de su recitación.</string>
+    <string name="AlIstiadha">Cuando recites el Corán refúgiate en Dios del demonio maldito.</string>
+
+    <string name="AlFatihah_aya1">En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes.</string>
+    <string name="AlFatihah_aya2">Todas las alabanzas son para Dios, Señor de todo cuanto existe.</string>
+    <string name="AlFatihah_aya3">el Compasivo, el Misericordioso.</string>
+    <string name="AlFatihah_aya4">Soberano absoluto del Día del Juicio Final.</string>
+    <string name="AlFatihah_aya5">solo a Ti te adoramos y solo de Ti imploramos ayuda.</string>
+    <string name="AlFatihah_aya6">¡Guíanos por el camino recto!</string>
+    <string name="AlFatihah_aya7">El camino de los que has colmado con Tus favores, no el de los que han caído en Tu ira, ni el de los que se extraviaron.</string>
+
+
+    <string name="anNas_aya1">Di: “Me refugio en el Señor de los seres humanos.</string>
+    <string name="anNas_aya2">en el Rey Soberano de los seres humanos.</string>
+    <string name="anNas_aya3">en el [único] Dios de los seres humanos, Sheikh Isa Garcia.</string>
+    <string name="anNas_aya4">de la maldad del [demonio] susurrador que huye [cuando el nombre de Dios es mencionado].</string>
+    <string name="anNas_aya5">que susurra en los corazones de los seres humanos.</string>
+    <string name="anNas_aya6">y existe entre los yinn y entre los seres humanos.</string>
+
+
+    <string name="alFalaq_aya1">Di: “Me refugio en el Señor del amanecer.</string>
+    <string name="alFalaq_aya2">de todo el mal que existe en lo que Él creó.</string>
+    <string name="alFalaq_aya3">del mal de la oscuridad de la noche cuando se extiende.</string>
+    <string name="alFalaq_aya4">del mal de las [hechiceras] sopladoras de nudos.</string>
+    <string name="alFalaq_aya5">y del mal del envidioso cuando envidia”.</string>
+
+    <string name="alIkhlas_aya1">Di: “Él es Allah, Uno.</string>
+    <string name="alIkhlas_aya2">Allah, el Eterno.</string>
+    <string name="alIkhlas_aya3">No engendró ni fue engendrado.</string>
+    <string name="alIkhlas_aya4">Y no hay nada ni nadie que sea semejante a Él”.</string>
+
+    <string name="AlMasad_aya1">¡Maldito sea Abu Lahab y que perezca!</string>
+    <string name="AlMasad_aya2">No le servirán de nada su poder ni sus bienes materiales.</string>
+    <string name="AlMasad_aya3">Será arrojado en el fuego llameante.</string>
+    <string name="AlMasad_aya4">junto con su mujer, la que acarreaba espinas.</string>
+    <string name="AlMasad_aya5">que llevará en su cuello una cuerda de fibras de palmera.</string>
+
+    <string name="anNasr_aya1">[¡Oh, Muhámmad!] Cuando llegue el socorro de Dios y la victoria.</string>
+    <string name="anNasr_aya2">y veas a la gente ingresar en masa a la religión de Dios.</string>
+    <string name="anNasr_aya3">glorifica alabando a tu Señor y pide Su perdón; Él es Indulgente.</string>
+
+    <string name="alKafirun_aya1">Di: “¡Oh, incrédulos!</string>
+    <string name="alKafirun_aya2">No adoro lo que adoráis.</string>
+    <string name="alKafirun_aya3">Ni vosotros adoráis a Quien yo adoro.</string>
+    <string name="alKafirun_aya4">Y jamás adoraré lo que adoráis.</string>
+    <string name="alKafirun_aya5">Ni vosotros adoráis a Quien yo adoro.</string>
+    <string name="alKafirun_aya6">Vosotros tenéis vuestra religión y yo la mía”.</string>
+
+
+
+    <string name="alKauthar_aya1">[¡Oh, Muhámmad!] te he agraciado con la abundancia.</string>
+    <string name="alKauthar_aya2">Reza a tu Señor y sacrifica [los animales en Su nombre].</string>
+    <string name="alKauthar_aya3">Porque a quien te desdeñe y odie le privaré de todo bien.</string>
+
+    <string name="alMaoun_aya1">¿Acaso has observado a quien desmiente el Día del Juicio?</string>
+    <string name="alMaoun_aya2">Es quien rechaza al huérfano.</string>
+    <string name="alMaoun_aya3">y no exhorta a alimentar al pobre.</string>
+    <string name="alMaoun_aya4">¡Ay de los orantes.</string>
+    <string name="alMaoun_aya5">que son negligentes en sus oraciones [realizándolas fuera de su horario].</string>
+    <string name="alMaoun_aya6">y solo las realizan para hacerse ver.</string>
+    <string name="alMaoun_aya7">y se niegan a prestar hasta la mínima ayuda!</string>
+
+    <string name="Quraish_aya1">Le proporcioné seguridad a [la tribu de] Quraish.</string>
+    <string name="Quraish_aya2">e hice que sus caravanas en invierno [al Yemen] y en verano [a Siria] fueran respetadas.</string>
+    <string name="Quraish_aya3">Que adoren y agradezcan, en consecuencia, al Señor de esta Casa [la Ka‘bah].</string>
+    <string name="Quraish_aya4">Quien les concedió el sustento para que no sufrieran hambre y les dio seguridad para protegerlos del peligro.</string>
+
+    <string name="alFil_aya1">¿No has observado lo que hizo tu Señor con el ejército del elefante?</string>
+    <string name="alFil_aya2">¿No has visto cómo desbarató sus planes [de destruir la Ka‘bah]?</string>
+    <string name="alFil_aya3">Y envió sobre ellos bandadas de aves.</string>
+    <string name="alFil_aya4">que les arrojaron piedras de arcilla dura.</string>
+    <string name="alFil_aya5">y los dejó como heno carcomido.</string>
+
+    <string name="alHumazah_aya1">¡Ay del castigo que les aguarda al difamador y al calumniador.</string>
+    <string name="alHumazah_aya2">al que acumula bienes materiales y los cuenta una y otra vez.</string>
+    <string name="alHumazah_aya3">creyendo que su riqueza lo hará vivir eternamente!</string>
+    <string name="alHumazah_aya4">Por el contrario, serán arrojados en un fuego demoledor.</string>
+    <string name="alHumazah_aya5">¿Y qué te hará comprender lo que es un fuego demoledor?</string>
+    <string name="alHumazah_aya6">Es un fuego encendido por Dios.</string>
+    <string name="alHumazah_aya7">cuyo dolor alcanza los corazones.</string>
+    <string name="alHumazah_aya8">El Infierno se cerrará en torno a ellos.</string>
+    <string name="alHumazah_aya9">con columnas inmensas.</string>
+
+    <string name="alAsr_aya1">Juro por el tiempo.</string>
+    <string name="alAsr_aya2">que los seres humanos están en la perdición.</string>
+    <string name="alAsr_aya3">excepto aquellos que crean, obren rectamente, y se aconsejen mutuamente con la verdad y con la paciencia [ante las adversidades].</string>
+
+    <string name="atTakathur_aya1">El afán de tener más y más os domina.</string>
+    <string name="atTakathur_aya2">hasta que la muerte os sorprenda y entréis en la tumba.</string>
+    <string name="atTakathur_aya3">¡No deberíais comportaros así! Ya os vais a enterar [que obrar para la otra vida es superior].</string>
+    <string name="atTakathur_aya4">Una vez más: ¡No deberíais comportaros así! Ya os vais a enterar [que obrar para la otra vida es superior].</string>
+    <string name="atTakathur_aya5">Si hubierais sabido con certeza [el castigo de quienes consumen su vida en el afán de tener más y más, habríais cambiado el rumbo de vuestras vidas].</string>
+    <string name="atTakathur_aya6">Habréis de ver el fuego del Infierno.</string>
+    <string name="atTakathur_aya7">y lo veréis con los ojos de la certeza.</string>
+    <string name="atTakathur_aya8">Luego, ese día [del Juicio] se os preguntará por cada bendición que habéis recibido [durante la vida mundanal].</string>
+
+    <string name="alQariah_aya1">El evento repentino.</string>
+    <string name="alQariah_aya2">¿Qué es el evento repentino? ".</string>
+    <string name="alQariah_aya3">¿Y qué te hará comprender la magnitud del evento repentino?</string>
+    <string name="alQariah_aya4">Ese día la gente parecerá mariposas dispersas.</string>
+    <string name="alQariah_aya5">y las montañas copos de lana cardada.</string>
+    <string name="alQariah_aya6">Aquel cuyas obras buenas sean más pesadas en la balanza.</string>
+    <string name="alQariah_aya7">gozará de una vida placentera.</string>
+    <string name="alQariah_aya8">En cambio, aquel cuyas obras buenas sean más livianas en la balanza.</string>
+    <string name="alQariah_aya9">su morada estará en el abismo.</string>
+    <string name="alQariah_aya10">¿Y qué te hará comprender qué es el abismo?</string>
+    <string name="alQariah_aya11">Es un fuego abrasador.</string>
+
+    <string name="alAdiyat_aya1">Juro por los corceles que se lanzan relinchando.</string>
+    <string name="alAdiyat_aya2">y arrancan chispas con sus cascos.</string>
+    <string name="alAdiyat_aya3">y sorprenden al amanecer.</string>
+    <string name="alAdiyat_aya4">levantando una nube de polvo.</string>
+    <string name="alAdiyat_aya5">e irrumpiendo en las filas del enemigo.</string>
+    <string name="alAdiyat_aya6">que el ser humano es ingrato con su Señor.</string>
+    <string name="alAdiyat_aya7">Y él mismo es testigo de ello.</string>
+    <string name="alAdiyat_aya8">porque tiene una codicia apasionada por los bienes materiales.</string>
+    <string name="alAdiyat_aya9">¿Acaso no sabe que cuando se haga surgir a quienes están en las sepulturas.</string>
+    <string name="alAdiyat_aya10">y se evidencie lo que hay en los corazones.</string>
+    <string name="alAdiyat_aya11">ese día su Señor estará bien informado de lo que hicieron?</string>
+
+    <string name="AzZalzala_aya1">Cuando la Tierra sea sacudida por el gran terremoto.</string>
+    <string name="AzZalzala_aya2">y expulse su carga [haciendo surgir a los muertos de sus tumbas].</string>
+    <string name="AzZalzala_aya3">y el ser humano diga: “¿Qué le sucede a la Tierra?.</string>
+    <string name="AzZalzala_aya4">Ese día, la Tierra dará testimonio de todo cuanto sucedió sobre ella.</string>
+    <string name="AzZalzala_aya5">por orden de su Señor.</string>
+    <string name="AzZalzala_aya6">Entonces, los seres humanos acudirán al Día del Juicio en grupos para conocer el resultado de sus obras.</string>
+    <string name="AzZalzala_aya7">Quien haya realizado una obra de bien, tan pequeña como un átomo, la encontrará registrada.</string>
+    <string name="AzZalzala_aya8">Y quien haya realizado una mala obra, tan pequeña como un átomo, la encontrará registrada.</string>
+
+
+</resources>

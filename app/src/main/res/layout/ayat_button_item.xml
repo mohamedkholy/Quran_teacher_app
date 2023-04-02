@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingBottom="@dimen/_15sdp"
+     >
+<com.google.android.material.button.MaterialButton
+    android:id="@+id/button"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_100sdp"
+    app:icon="@drawable/star"
+    android:paddingBottom="@dimen/_10sdp"
+    app:iconPadding="@dimen/_13sdp"
+    android:fontFamily="@font/poppins_medium"
+    app:iconGravity="textTop"
+    android:textSize="@dimen/_12ssp"
+    app:cornerRadius="@dimen/_10sdp"
+    android:stateListAnimator="@null"
+    android:elevation="@dimen/_4sdp"
+    android:textAllCaps="false"
+    android:backgroundTint="#6A9EBE"
+    android:layout_marginStart="@dimen/_10sdp"
+    android:layout_marginEnd="@dimen/_10sdp"
+     />
+</RelativeLayout>

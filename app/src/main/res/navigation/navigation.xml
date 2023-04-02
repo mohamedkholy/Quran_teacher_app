@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.alda3ia.ES.quranlearn.ui.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_aboutUsFragment"
+            app:destination="@id/aboutUsFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"/>
+        <action
+            android:id="@+id/action_homeFragment_to_notesFragment"
+            app:destination="@id/notesFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"
+            />
+        <action
+            android:id="@+id/action_homeFragment_to_videoFragment"
+            app:destination="@id/videoFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"
+            />
+        <action
+            android:id="@+id/action_homeFragment_to_surasFragment"
+            app:destination="@id/surasFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"/>
+    </fragment>
+    <fragment
+        android:id="@+id/aboutUsFragment"
+        android:name="com.alda3ia.ES.quranlearn.ui.AboutUsFragment"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" />
+    <fragment
+        android:id="@+id/notesFragment"
+        android:name="com.alda3ia.ES.quranlearn.ui.NotesFragment"
+        android:label="fragment_notes"
+        tools:layout="@layout/fragment_notes" />
+    <fragment
+        android:id="@+id/ayatFragment"
+        android:name="com.alda3ia.ES.quranlearn.ui.AyatFragment"
+        android:label="fragment_ayat"
+        tools:layout="@layout/fragment_ayat" >
+        <argument
+            android:name="sura_name"
+            app:argType="string" />
+        <argument
+            android:name="AyatCount"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_ayatFragment_to_videoFragment"
+            app:destination="@id/videoFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"
+            />
+        <action
+            android:id="@+id/action_ayatFragment_to_listenSuraFragment2"
+            app:destination="@id/listenSuraFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"/>
+    </fragment>
+    <fragment
+        android:id="@+id/videoFragment"
+        android:name="com.alda3ia.ES.quranlearn.ui.VideoFragment"
+        android:label="fragment_video"
+        tools:layout="@layout/fragment_video" >
+        <argument
+            android:name="item"
+            app:argType="com.alda3ia.ES.quranlearn.model.VideoItem" />
+        <argument
+            android:name="title"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/surasFragment"
+        android:name="com.alda3ia.ES.quranlearn.ui.SurasFragment"
+        android:label="fragment_suras"
+        tools:layout="@layout/fragments_items" >
+        <argument
+            android:name="level"
+            app:argType="integer" />
+        <action
+            android:id="@+id/action_surasFragment_to_ayatFragment"
+            app:destination="@id/ayatFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"
+            />
+        <action
+            android:id="@+id/action_surasFragment_to_videoFragment"
+            app:destination="@id/videoFragment"
+            app:enterAnim="@anim/to_right_enter_anim"
+            app:exitAnim="@anim/exit_anim"
+            app:popEnterAnim="@anim/enter_pop_anim"
+            app:popExitAnim="@anim/exit_pop_anim"
+            />
+    </fragment>
+    <fragment
+        android:id="@+id/listenSuraFragment"
+        android:name="com.alda3ia.ES.quranlearn.ui.ListenSuraFragment"
+        android:label="fragment_listen_sura"
+        tools:layout="@layout/fragment_listen_sura" >
+        <argument
+            android:name="sura_path"
+            app:argType="string" />
+        <argument
+            android:name="sura_name"
+            app:argType="string" />
+    </fragment>
+</navigation>
